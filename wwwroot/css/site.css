@@ -1,0 +1,26 @@
+/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification 
+for details on configuring this project to bundle and minify static web assets. */
+
+h2, .font {
+    font-family: 'Poiret One', cursive;
+}
+
+.font {
+    font-size: 1.25em;
+}
+
+div {
+    padding-top: 1em;
+}
+
+.size {
+    width: 100%;
+}
+
+tbody {
+    font-size: .9em;
+}
+
+th, td {
+    padding: .2em;
+}

@@ -1,0 +1,65 @@
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.deps.json
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.json
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.dev.json
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.Views.dll
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\bin\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.csprojAssemblyReference.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CoreCompileInputs.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfoInputs.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.input.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.output.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorCoreGenerate.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Create.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Delete.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Details.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Edit.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Index.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournalGITHUB\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CopyComplete
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.deps.json
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.json
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.runtimeconfig.dev.json
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.Views.dll
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\bin\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.csprojAssemblyReference.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CoreCompileInputs.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.RazorAssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfoInputs.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.AssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.input.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.TagHelpers.output.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.RazorCoreGenerate.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Index.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Create.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Delete.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Details.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Edit.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Scriptures\Index.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_Layout.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cache
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.RazorTargetAssemblyInfo.cs
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.Views.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.dll
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.pdb
+C:\Users\12082\Documents\.Net Software\ScriptureJournal\obj\Debug\netcoreapp2.1\Scripture Journal.csproj.CopyComplete
